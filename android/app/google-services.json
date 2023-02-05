@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "326726136858",
+    "project_id": "be-my-hand-397e6",
+    "storage_bucket": "be-my-hand-397e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326726136858:android:b6bea3536f59e773a4cda3",
+        "android_client_info": {
+          "package_name": "com.bemy.hands.be_my_hands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326726136858-1dn514glaov7p3g22pbt5js4mvi80bae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeAQ8wsmfgJepRAXWaCD6K6IF2GT_Ms6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326726136858-1dn514glaov7p3g22pbt5js4mvi80bae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326726136858:android:dc155861343956a6a4cda3",
+        "android_client_info": {
+          "package_name": "com.example.bemyhand_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326726136858-1dn514glaov7p3g22pbt5js4mvi80bae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeAQ8wsmfgJepRAXWaCD6K6IF2GT_Ms6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326726136858-1dn514glaov7p3g22pbt5js4mvi80bae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
